@@ -1,0 +1,7 @@
+huggingface_hub==0.19.4
+mlx==0.0.9
+numpy==1.26.3
+Pillow==10.2.0
+regex==2023.10.3
+safetensors==0.4.1
+tqdm==4.66.1
